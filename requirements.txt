@@ -1,5 +1,3 @@
-
-Copy
 pandas>=1.3.5  
 matplotlib>=3.5.0  
 seaborn>=0.11.2  s
